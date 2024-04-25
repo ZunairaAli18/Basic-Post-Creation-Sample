@@ -12,4 +12,4 @@ It works with raylib version 5.0. Tested on both Windows 10 and Windows 11.
 The template now uses folders for better organizion of the files. So, all the source code now lives in the src folder.
 
 # POST 
-This is a basic structure of post using rayli c++
+This is a basic structure of post using raylib c++
