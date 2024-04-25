@@ -1,7 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
     {
       "name": "Debug",
       "type": "cppdbg",
@@ -61,8 +60,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/JAFRI/OneDrive/Pictures/Documents/Raylib-CPP-Starter-Template-for-VSCODE-V2-main/src",
-      "program": "c:/Users/JAFRI/OneDrive/Pictures/Documents/Raylib-CPP-Starter-Template-for-VSCODE-V2-main/src/build/Debug/outDebug",
+      "cwd": "c:/Users/JAFRI/OneDrive/Pictures/Documents/Basic-Post-Creation-Sample",
+      "program": "c:/Users/JAFRI/OneDrive/Pictures/Documents/Basic-Post-Creation-Sample/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
